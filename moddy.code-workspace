@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\mc-data"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			".gradle": true,
+			".settings": true,
+			"bin": true,
+			"build": true,
+			"gradle": true,
+			"run": true,
+			".gitignore": true,
+			".project": true,
+			"*.code-workspace": true
+		},
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}

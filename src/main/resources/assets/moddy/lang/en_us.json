@@ -1,0 +1,14 @@
+{
+	"item.moddy.pebble": "A Pebble",
+	"item.moddy.white_oak_log": "White Oak Log",
+	"block.moddy.white_oak_log": "White Oak Log",
+	"item.moddy.white_oak_wood": "White Oak Wood Log",
+	"block.moddy.white_oak_wood": "White Oak Wood Log",
+	"item.moddy.white_oak_plank": "White Oak Plank",
+	"block.moddy.white_oak_plank": "White Oak Plank",
+	"itemGroup.moddy": "Mod Items",
+	"item.moddy.stripped_white_oak_log": "stripped White Oak Log",
+	"block.moddy.stripped_white_oak_log": "stripped White Oak Log",
+	"item.moddy.stripped_white_oak_wood": "stripped White Oak Wood Log",
+	"block.moddy.stripped_white_oak_wood": "stripped White Oak Wood Log"
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "moddy:block/stripped_white_oak_wood" },
+        "axis=z": { "model": "moddy:block/stripped_white_oak_wood", "x": 90 },
+        "axis=x": { "model": "moddy:block/stripped_white_oak_wood", "x": 90, "y": 90 }
+    }
+}
